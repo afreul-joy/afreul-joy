@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm AFreul Joy</h1>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="center">I am a student of Computer Science & Engineering👨‍💻. </p>
 <p align="center">I am a Web Dev Enthusiast 🧰 </p>
 <p align="center">I have done multiple projects in the field of Front-End Development. </p>
