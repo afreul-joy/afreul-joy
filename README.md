@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm AFreul Joy</h1>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 <p align="center">I am a student of Computer Science & Engineering👨‍💻. </p>
 <p align="center">I am a Web Dev Enthusiast 🧰 </p>
 <p align="center">I have done multiple projects in the field of Front-End Development. </p>
@@ -46,5 +46,5 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afreul-joy&show_icons=true&locale=en&layout=compact" alt="afreul-joy" /></p> -->
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afreul-joy&show_icons=true&locale=en" alt="afreul-joy" /></p>
-
