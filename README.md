@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm AFreul Joy</h1>
-<h3 align="center">Currently, I am a student of Computer Science & Engineering I am a Web Dev Enthusiast 🧰 , I have done multiple projects in the field of Front-End Development.</h3>
+<p align="center">I am a student of Computer Science & Engineering👨‍💻. </p>
+<p align="center">I am a Web Dev Enthusiast 🧰 </p>
+<p align="center">I have done multiple projects in the field of Front-End Development. </p>
+
 
 - 📫 How to reach me **afreuljoy@gmail.com**
 
