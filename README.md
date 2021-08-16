@@ -17,7 +17,6 @@
 <p  align="center">
 
 <!-- Programming Language -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
 <img src="https://img.shields.io/twitter/url?color=black&label=HTML5&logo=HTML5&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAfreul" height="25">
  <img src="https://img.shields.io/twitter/url?color=black&label=CSS&logo=CSS3&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FAfreul" height="25">
@@ -32,9 +31,6 @@
 <br>
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
-
-<img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" height="25">
-<img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
 
 
