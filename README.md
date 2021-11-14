@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm AFreul Joy</h1>
-<h3 align="center">I am an enthusiastic Software Developer, having expertise in Web application Development.</br>
+<h3 align="center">I am an enthusiastic software developer, having expertise in web application development.</br>
 Highly interested in "Web development." .</h3>
 
 
