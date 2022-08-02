@@ -1,4 +1,4 @@
-<a href="https://afreul-portfolio.netlify.app/"><img width="100%" height="auto" src="https://i.ibb.co/ygFGZs0/Screenshot-2022-08-02-210435.png" height="175px"/></a>
+<a href="https://afreul-portfolio.netlify.app/"><img width="100%" height="auto" src="https://i.ibb.co/rszDx2Q/image.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm AFreul Joy</h1>
 <h3 align="center">I am an enthusiastic software developer, having expertise in web application development.</br>
